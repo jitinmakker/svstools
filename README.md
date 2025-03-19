@@ -1,3 +1,4 @@
+Scripts to convert image file types to svs  
 # Requirement
 pyvips (https://pypi.org/project/pyvips/)
 PIL - python imaging library (https://pypi.org/project/pillow/)
