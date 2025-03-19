@@ -9,5 +9,5 @@ Converts the PathoZoom szi format to aperio svs format
 
 python szi2svs.py input.szi output.svs
 
-# Also a separate file for tiff to svs
+# Also a separate script for tiff to svs
 python tiff2svs.py input.tiff output.svs
